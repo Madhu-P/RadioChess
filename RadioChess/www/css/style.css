@@ -1,0 +1,54 @@
+
+#play{
+	display: block;
+	width: 212px;
+	height: 83px;
+	background-image: url(../images/play_button.png);
+	background-repeat: no-repeat;
+	float: left;
+	margin-right: 15px;
+	margin-left: 95px;
+	
+}
+ #mute{
+	display: block;
+	width: 214px;
+	height: 84px;
+	background-image: url(../images/mute_button.png);
+	background-repeat: no-repeat;
+	float: left;
+	margin-right: 5px;
+}
+#close{
+	display: block;
+	width: 215px;
+	height: 82px;
+	background-image: url(../images/stop_button.png);
+	background-repeat: no-repeat;
+	float: left;
+	margin-right: 5px;
+}
+/*
+#play {
+	background-position: 6px 5px;
+}
+
+#pause {
+	background-position: -32px 5px;
+}
+
+#mute {
+	background-position: -63px 5px;
+}
+
+#muted {
+	background-position: -106px 5px;
+}*/
+/*
+#close {
+	float: right;
+	background-position: -146px 5px;
+	display: none;
+}
+*/
+
